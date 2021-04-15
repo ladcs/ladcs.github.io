@@ -2,12 +2,17 @@
         border-radius: 50%;
     }
     .botton {
-        background-color: rgb(255, 255, 255);
-        border-radius: 4%;
+        background-color: rgb(26, 56, 189);
+        border-radius: 10%;
         font-weight: 600;
-        list-style: none;
-        
+        text-decoration: none;
+        padding: 10px 20px;
+        line-height: 25px;
+        color: rgb(255, 255, 255);        
     }
+        .espac-lis {
+            line-height: 25px;
+        }
         a, h4 {
         color: rgb(73, 155, 175);
     }
