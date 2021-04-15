@@ -2,13 +2,13 @@
         border-radius: 50%;
     }
     .botton {
-        background-color: rgb(73, 155, 175);
+        background-color: rgb(57, 120, 202);
         border-radius: 10%;
         font-weight: 600;
         text-decoration: none;
         padding: 10px 20px;
         line-height: 25px;
-        color: rgb(255, 255, 255);        
+        color: rgb(43, 52, 63);        
     }
     .espac-lis {
             line-height: 25px;
