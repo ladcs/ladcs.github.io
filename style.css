@@ -1,5 +1,18 @@
+    hr{
+        width: 100%;
+    }
     .figure {
         border-radius: 50%;
+        float: left;
+    }
+    .bt{
+        background-color: rgb(57, 120, 202);
+        border-radius: 10%;
+        font-weight: 500;
+        padding: 4px 8px;
+        text-decoration: none;
+        line-height: 20px;
+        color: rgb(43, 52, 63);        
     }
     .botton {
         background-color: rgb(57, 120, 202);
@@ -9,6 +22,16 @@
         padding: 10px 20px;
         line-height: 30px;
         color: rgb(43, 52, 63);        
+    }
+    .botton:active {
+        color: rgb(57, 120, 202);
+    }
+    .menu{
+        position: fixed;
+        padding: 10px 20px;
+        top: 0;
+        background-color: rgb(87, 84, 84);
+        width: 100%;
     }
     .espac-lis {
             line-height: 25px;
@@ -23,15 +46,24 @@
         background-color: rgb(71, 68, 68);
         line-height: 20px;
     }
-    h1, h3 {
-        color: rgb(57, 120, 202);
-    
+    h3 {
+        color: rgb(57, 120, 202);    
      }
     .ipc {
         font-weight: 900;
     }
+    h1 {
+        color: rgb(57, 120, 202);    
+        position: relative;
+        top: 30px;
+        left: 100px;
+     }
     .encerramento{
         background-color: rgb(87, 84, 84);
         text-align: center;
     }
-    
+    .descr{
+        position: relative;
+        left: 20px;
+        top: 40px;
+    }
