@@ -16,7 +16,7 @@
     a, h4 {
         color: rgb(112, 165, 201);
     }
-    p, ul {
+    p, ul, h6 {
         color: rgb(255, 255, 255)
     }
     body {
@@ -30,3 +30,8 @@
     .ipc {
         font-weight: 900;
     }
+    .encerramento{
+        background-color: rgb(87, 84, 84);
+        text-align: center;
+    }
+    
