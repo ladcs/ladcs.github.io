@@ -45,6 +45,7 @@
     body {
         background-color: rgb(71, 68, 68);
         line-height: 20px;
+        margin-left: 0;
     }
     h3 {
         color: rgb(57, 120, 202);    
@@ -66,4 +67,7 @@
         position: relative;
         left: 20px;
         top: 40px;
+    }
+    .container{
+        margin: 0 8px;
     }
